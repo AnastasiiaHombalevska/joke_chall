@@ -13,8 +13,8 @@
 - Vanilla JavaScript
 
 ### Features:
-- Fetches a new joke from an API on button click  
-- Smooth UI transitions when loading or displaying a joke  
+- Fetches a new joke from an API on button click
+- Smooth UI transitions when loading or displaying a joke
 - Responsive layout centered on the page for a clean user experience
 - Graceful handling of loading states and possible errors
 
